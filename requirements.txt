@@ -1,0 +1,14 @@
+torch-geometric
+pandas
+numpy
+torch
+torchvision
+matplotlib
+tqdm
+scipy
+scikit-learn
+pillow
+opencv-python
+jupyterlab
+notebook
+ipykernel

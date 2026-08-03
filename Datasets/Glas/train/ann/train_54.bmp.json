@@ -1,0 +1,218 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 6927576,
+            "tagId": 22131,
+            "name": "patient_id",
+            "value": 6,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:14.692Z",
+            "updatedAt": "2023-10-03T12:16:14.692Z"
+        },
+        {
+            "id": 6927577,
+            "tagId": 22132,
+            "name": "malignant",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:14.692Z",
+            "updatedAt": "2023-10-03T12:16:14.692Z"
+        },
+        {
+            "id": 6927578,
+            "tagId": 22134,
+            "name": "grade_sirinukunwattana",
+            "value": "moderately differentiated",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:14.692Z",
+            "updatedAt": "2023-10-03T12:16:14.692Z"
+        }
+    ],
+    "size": {
+        "height": 522,
+        "width": 775
+    },
+    "objects": [
+        {
+            "id": 61441446,
+            "classId": 6467949,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:14.696Z",
+            "updatedAt": "2023-10-03T12:16:14.696Z",
+            "tags": [],
+            "classTitle": "gland",
+            "bitmap": {
+                "data": "eJwBoQNe/IlQTkcNChoKAAAADUlIRFIAAAFLAAABEgEDAAAATvhl4gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAANJSURBVHic1dpNbtswEAVgF15kyQsU4FF4NOpoPIqOwKUWgtXGCcQh5+/RsVCU6w8O+d7YjmTdDnk9bnwp9JigC04rTjecCufSqLBZlRacrjjlEaiUR6DSHac8LZXyKdApC1anLC2dsgh0yiLQKYtApywCg44RGLRcQsdgDVpxOnZg0LEDg47BWrTgdL2E1kvodgndcfrA6XENXf41LThdcVpxuuF0x+kDp8cEXXBacLpeQitON5zuOH3g9JigC04LTlec1kvohtMdpw+c0g6yQ0kHyaEFp6SD6NDtJRocuuOUBPvh0GOCtmDvOP31Rkrq8iipKzu04kMw0ex/VVcL1u2ABOtREmx26IZTEmzydoDXRdJyaUsreLSl5dZVcdrScpvdcdrScoeAnMul7VzZoxtO27mSRx84PSboOTDxnfScrYDTibp82upyaasrebTVFd2XPWnAqfuWaR3474NXqB/sWZcfbKMZp8mj5xD4HTQacDrxCeemNUHJV8cEzQ4l3zIRpwGnXlqEemNIqJfWxL/clGbHEhpxGnDqpTVBC54WoTNXcxmn6W10xTuoeAf0ws8Jll74ORNLqdPBxHV6R/O7aHf1n3AacRpsuuAdUOp0QKnTQXmNXnRjKeM0mbTidXU0mLS7XWXX1VG7ru7Olt3By3cXs0kXPNiCB9vRgFM72Am6vkjturqw7Lq6CmZu3WecxktowKkZbE/NYHtqBtvTmR+7Mk4TTiNOA06NYMffUSeo0cFIjQ7Yb74Zp0ml7EfniNOg0jpSPQJGZx4nUM/FqbpZTtXNcjrz9EfGqbbZn1HtXALV5lCgWgTrz2jGacJpvIQGnCodSFTpQKJKsEWiCadyBCKVIxCpHIFI5QhEKg+MTMUIFpGKH/MyFc8lSnmzCo04FTYrPQf3uYRk+XNV34vHpVK+2QkqPAb3tXiyKuXvBJ2yHVSVsmR1yl7WoGGgq07HHRh07LbodOzWosNmF4PecTps1pBjtybNVGpvgq8VcNqdS53s5+rOpc/gc9ESqk0jTulmV5vSZItDA07JzC44dSQ9F07tXm+0L7vXz4Ue6nZW6/75v+s3NCv0ZStC79AAfK2AtPq9Mk4/cHrDYn2u+0n/AMFLfnJ4KSWVAAAAAElFTkSuQmCCIjW75A==",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 61441445,
+            "classId": 6467949,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:14.696Z",
+            "updatedAt": "2023-10-03T12:16:14.696Z",
+            "tags": [],
+            "classTitle": "gland",
+            "bitmap": {
+                "data": "eJwB/wMA/IlQTkcNChoKAAAADUlIRFIAAAEyAAABOgEDAAAAr1tM6wAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAOnSURBVHic7dpLjuMgEAZgt7LIZqQcwdeYXY4WjsZROEJJs2GB8CjxI1VFlfl72uqM1GEV0p+hKGgnhgzDVn4PUPmooJswd5oC6CLoEujoF+YmqMW7y6CbCHRAbmbX73l2/cmbXX/Ii+t2vLhux4vrrprVBdBF0BHoegNeXQFdLzGr6w14c50AN9fJ9NNF0CXQ7Qf4dPuZebr9Bo92A+puoLt+2tG3uvHTLu66yzOBAXRpz52fbnfFMLcbIVsIuzPC3V7HHxPWsXBNx+xC7pp/YnJcUI7dnm7ckXKsgyt3esSsA+H03LH6KJwaMQvkIpzqmNWlU6lmGVCOlCPHVeW2DJ6lk6lm152US9Jt130oR8olx1XlCnvtZuZe9xwpt15322mQX9c4kq56rki3tn/VblKOPJekW64bG5eVC46blJsDvLQuSTe3rxfM1MxV9VyVbg5QL6xnRJtLnsvSPap6YfEAeRVwk6gYAxHxGm5S7jGQm+GCdNleCFtiRByj4Ui6R/sXw2XlkuOKcmRP8JoYcZ3llgE/686ELAOW11kuKUdOorUrjiPlqjMh2k2oi3sTJwO2XNYug66Aru4tGP5OMCe4ddHMS+vInI/WZdAVc720roLOLm9nl2Y9v91Lnb7/fdXFH+YC6AbM6c9Lr+jP3+9yBLoEugC6AXP6e5hX9Pe6XdRz+WBHL3IJdPGHufAiN7zG1f/clRe5DDp0HPA6SKAj0KH3IfT+V0Gn9zfcEkAXQZdARwc7vf/yVVcOdvVgp/eRvs2Ft3u7F7qj1/NPc2ieE+gIdO6Zgip6n9otAXQJdAS6DDrouWfCn6PQ5zK9T+0WAp3ep/YK+lyLPnejz/HwvkAEXQIdug9XQeceeegSQBdBl0BHB7v8T+6P64pw6eZC6UbXRe7Id4m7fHEdcVfMw5nWVfNwxnDmpvwcksizeQhhuHDxXBEuWseDS0jcJXeupSPztOJRhMv+QAJ3xT4Gu5fIXTXPOR8liXVqH1vdCwkX3ACzcNENULrkBihddv+rivhLsc/LGuecRzXOOY+aW+BVcgciXXEzHQZVHSGXvAajdM6JXuOKc3SqnXc02bjonNkazuxYjdc9VNbuccs2JsV0c25o6LrTHMK4vV31ymRfLgIbUXHcOL+6um75EnKePyS3jpPjho3Ppfk8ku4EujXC3HVzz9R187JNffcYcuy77VfH0iXt7i2mxhlsLZzt/bqNux02YL2q++nbvR2+Xo5wfwEsbcw7zgG6rwAAAABJRU5ErkJgguoy/EY=",
+                "origin": [
+                    0,
+                    208
+                ]
+            }
+        },
+        {
+            "id": 61441444,
+            "classId": 6467949,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:14.696Z",
+            "updatedAt": "2023-10-03T12:16:14.696Z",
+            "tags": [],
+            "classTitle": "gland",
+            "bitmap": {
+                "data": "eJwB8gEN/olQTkcNChoKAAAADUlIRFIAAAE+AAAAbwEDAAAAT1M+lQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGaSURBVHicxZVLTsNAEESNWLCcI/goPpp9NB/FR8jSCwQoBEh1T+qlZYiY9ZOnPj3t4Z3OabieicBdwJHAVwEbgW8CvqDIMrhcwWcEtyv4hKDmMxOo+UwEqu0R7y6DYpvzWf/P9mPnh9sWkG0LyCIlcRa5CYjdaOLoRoNENxrk8CegJs5jsVbBQ8+mEVhfAhI5j4WKnKsiJ/zkETflt/2A3YfgfgRsBJaXgIKYT/lvoyDmU38N0iGPhXTI+0c65Hy0QxwLBbFE7RDdhLVCIkOQJDKAKDKAcxUkkUsV1A5x0rRDnLRQDdkOidMARRBExsSp7gg2D4Ygqe41fnK24BbB0YIxSBC5R9AHFIMENwn0dSfQ152q8flkcLKfTOBowaVqO4He9lq1faqKzKAtMSduA+rAVgVdQB3oWuxBI/SX4I2CboM3CjJg78iArQr2aRqwd2PAXuRuwC7JkwHHKtjZ3gzYDfBiwM624TrbeVNYkU7ikANyEvPl/uZ0u+vlciQi5M7nUtB6l/sat+U++EluBe7snR3/nPZ98QcmuMRHc452EAAAAABJRU5ErkJggtAG4j0=",
+                "origin": [
+                    214,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 61441443,
+            "classId": 6467949,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:14.695Z",
+            "updatedAt": "2023-10-03T12:16:14.695Z",
+            "tags": [],
+            "classTitle": "gland",
+            "bitmap": {
+                "data": "eJwBZAKb/YlQTkcNChoKAAAADUlIRFIAAAEVAAAArQEDAAAApM55DQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAIMSURBVHicxddNTsMwGIThIBYsfQQfxUdzjpaj5AhZdoEICBCN53vdDlYKWT9SZ8bu3zRNU9mnu0/d53sk7x/PHbV/Pustkr7Mvt0w5du8GubWq+0/T5c8Xc3cM89Xs/TMy9W89Uy6mm6gfDC9QL81a8eUg+lNfTS9YkfTC1SPphOoMZ1AR9IL1JjO0q1ZDMOhW7MZhkO3hkOLmU8yy0nmYhg81QGDI4rBEdXMhqHyVcxqmA1MMUZUQwNlYyA1VCypgWLBQOgXNXAa0cRAz8FswTwFA4GCgYVqQLF9MV4smvhiOZh4F8GE9imaEAhMCBQPIx4ZmUVMPLAYmoyGJqOh48HvYUU0GpqMhq5G6AJG361kdOlsmERGytOB6Z2moS0jA+HQjtERHVPBOEPrDSJjHcbcmkRmMczaGjwwGREP42IYGQgPwzE6omMqITGFjAydySyGOWtoMQ8dUQdCI+WrYQoZGSiTkfKJjNxEHPqsm2gNNP9heQmN5SU03jIxXF5CV8MUo1gmczGMlE9k5No/dqDZGGgxBhKDxWRo51sVQztma81pP18yGP1WJaOfZYkCOWZpzfDPFynmfL4Mf4v9508KHEgMDiQGy69Gsc0wI7eMylu3TEZ0BjqtPBU76y122g0aGGj4s0wHqmBGBqLQ1n9DMXjy84ApYGRELCYjYjEdkYqNGCoWDIS+vAMCvnQwUZfdIgAAAABJRU5ErkJgguUn/gY=",
+                "origin": [
+                    260,
+                    349
+                ]
+            }
+        },
+        {
+            "id": 61441442,
+            "classId": 6467949,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:14.695Z",
+            "updatedAt": "2023-10-03T12:16:14.695Z",
+            "tags": [],
+            "classTitle": "gland",
+            "bitmap": {
+                "data": "eJwBRwS4+4lQTkcNChoKAAAADUlIRFIAAAHAAAABHwEDAAAA7IOEygAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPvSURBVHicxdtLkqMwEARQEyy81BE4CkeDo+koOoKWvegwM/50U0ilUGYGbXs1s3hBVVYhgyfmcpm3bb0In2H7/1HgeIfKJcMdJgEud/glwG0Tm3xcUbnkE95UuEUVZhXytb4gX+sPzCqka/2B9Nr9QnYHfuG3Ctl7a4dRhWStOyRr3SE5yU9C8vw4A65vh1GF6e0wq5C7lc+A3H31fjjvkLs9DOS2fDJwZWA4A0YVJgZeDcwqpAZpITXI0UAqnQNk7o8DZCY5HGBSIRPPOZCZ5KLGeoBRhNTqLGKlB5gYOGuLczx0GGePAO5gNZD78jAwU/CqwlEtVYbDCZB8mlMXwMKVgmZZIwWnE2CmoLysZue428OsDjdI++2xMtB+CSTqkgZmFb7pAXJWoVkdbh4Gyicrt+Z2AxJ1SXmQZ8zjA7GuDJRjtTdWZqCdh/y6w6Vj5qE/QCQVZgbaQVKnhx0kFasdJLetMrTzoKC85vZFKTLwlPuDS+eUNU8MtNtKLZ2dB1WrnYf+/kntuU2HWh6bDpXrIR35XZlp8vDKS22dhfokV7XWqNaaGLgYmBloV+ADP9Aw8NBkZOCsxmrTyQy0TXKPymqs5xyukYFBjdWmkxl4yhMvNw+zAvIPJtwg7fFBwQ+82psm0/3vSwJh+VMLPE6TzmMe8DjLn1rwcRax4lMx6cQHjCA06aRH5RmEQwnhZT/MYySWfd+d72fhKNzTuT1hBKH56nlCuMnFzGPciCb3WtPz8mit+yTzE/ID+XpCvtbbKykabq8/RhDuA4nh1Sv2Of7TCZPOXEq01lDCBMJrCTMI9SZLCH+PLGo6k9pkFSvaZBWr3uQKwlltskoHvScriMoqVvRurmJF46m2FR3lUENw7RyYITirtdbzANfOmQeWqzMPLB0vVqxWB2LL48SKnZJeOtCie+lAo3S2FezShasKIwAXDyYAzh5Ecg1qOt7SYem4TUYAuk0mAE4ezAB000FidbcVqdWHwJ77a44MxI0VGYh/ydyH/u4guS5qrZOaqz8Q4A5pDCT1pQ+BUc7qJRu1AhNp1BrVWvvfW6FxySw2CQTbgt1LtmrtBtvYun6wzSa7l1xaUm2yC/1jAIDNWrtwVmGryS5sDaQLW+l0YSudPpxU2EinD88+XftQf+KRHyT9SQLQH8ifQrdJBOrvEt4OQNDLFYJerRicVRhU6DSJQecYAGHdJAjr5QFh3SQI61pROKmwahKFVZMorNYVhmU6MCzTgWFQYRkrDMtY/x6W88DhosJZhUGFgwqLJgk4qTCo8KrCUYWDCo+xMjCo8CLDWYWjCvX/gRhUeFXhqMKLDBcVTioMKtxj/Qd2DD/XUnEcMAAAAABJRU5ErkJggnZB9Yo=",
+                "origin": [
+                    327,
+                    235
+                ]
+            }
+        },
+        {
+            "id": 61441441,
+            "classId": 6467949,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:14.695Z",
+            "updatedAt": "2023-10-03T12:16:14.695Z",
+            "tags": [],
+            "classTitle": "gland",
+            "bitmap": {
+                "data": "eJwBpgRZ+4lQTkcNChoKAAAADUlIRFIAAAGnAAABSwEDAAAASKfRIgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAROSURBVHicxdtLsts2EAVQqVRlDbEEbCE7wM5MLo1L4RI4zCAVxp+ynTzcT/OWrLz5KaJvN2BLAm+3c7td/7uf5/nXZfX4ov6+rNqZPKyf3/7WSJ3nJTV+qEtPW36oI1KXEvmpvi7xj+vq29+fkSo2/IMqdmBSR6RKlU2q1O5ZVSoDqrBKhPycQGUXiZVbIlZuRLBy8RNllkiUWSJRJkWmdGFM7ZE6IqULo0oWRpUsjCrZZ6pkn6mScbxaHW9U6vDgShUm1Bap/Y1KzNTClZgpoUTHRrREpfjO7ErtkaKVacUqa1KxyjL11GqLFInjoRXZmkaRh92Nwtk7hZfoFJkqp/ASncJ7c3EsUytSw6ktUjDE7tQRKRh9cwpOh1WwYb9JwTZnyhwBJx6OTLkjAI+U3ZahOiKFRsorOFJWwcK82oFaosK8QoUNq9DUZ6pbhaa+oNZZNa9A9AUFQvQbDMXhNxhSfnxRiBU1h1hR2/ywggLRF9Qxq8UrsFcyNbwCw1FQoM3dK9Dmilon1Qpqi9Q+qcJWAW0ubBXQsExVhn5uc6YqQw+GI1NLga2TGpHqBbVNqkWqMlL7pLLhqEQP2rx49bIzoBXU3LBKiLOqhDg3LFOVHbbPcRRU9g/E/3zUt4JaJ1Vpcxb9EYUIoi8sEURfWCL6H2lhiUB1r+boKx0DqlDYDpbo1REVhj54NKvQBw/fZ9SwwtkBVGGJIPrCEjf0sMUpFL0/PODH0m6XiFT2jUD22d6P4h7FAVV36kDKFoa/FXRLxN8K2gmGyi5xhWyJlCtsg6pFyo3i/kLlosdtzlT2rbaLnqiuFfnpyBWGlStsxcyoLSqMqKbVHsVBlCnseKNiP21pxX6cXaRiv0Y2/TCiTPREmUlcX6lMiFukdqIWqY5IseHQJykbDt0wNhwmeqJMiEwtUq1EDak2orpUB1HtjUq3+Z3DETYsUytRI1JNqu2lSu+VPVIHUXqHUTUi1ZWi906aUvR+kZxEeqFGh8iUDjFTK1NLpEakmlIbU/Lo2JmSDaNKNuxgSkbPL0AtkRpC8etxXSh+H6ypwqiSDVuZktHv9GGLUAdVI1JdKN6wFikVorjAJwoTSixRKLFEocTGVJdde6R4YUrxwpTihWWXeKUakeqRonFIReOQip4C+sJ7plgcWrVIsTiyi/xGjUiRwowihRlF+uzevFgiheNwCsfhFN4sTuE47KtKmYIhWtUjBafDv4KFHuYVyt4rlH3hJbERKVBYQbVIgcIqL78tkZoLq6h5PEqv52VqKqykpsJKahrFkpriKKmpz7VXHDP1McSaapH6GEfx1c13qh6pZ6QekfrQsapqkXpG6hGpe6RumRqR6pF6Ruo/D6urZ6Tukfr3KF5QPVItUo9I3TI1ItUidY/Ur45dUiNSLVL3SP0s7JrqkXpG6hGpW6ZGpHqknpF6ROr2vdPX1VeXqBGpHqkWqVuP1O1zpD79AyDsXa1QEjTtAAAAAElFTkSuQmCCxXw0pA==",
+                "origin": [
+                    352,
+                    108
+                ]
+            }
+        },
+        {
+            "id": 61441440,
+            "classId": 6467949,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:14.694Z",
+            "updatedAt": "2023-10-03T12:16:14.694Z",
+            "tags": [],
+            "classTitle": "gland",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgZAeyTzAyA8n7a7YZAim2AJ8QVyD9////pTfn3wWyGEuC/IIZHJ7dSAOyv3m6OIZUzDl75WDuYQOe1kROtlXK5hruF9NC3V9rSCoel+laZiuyTGfiX2Hn9l9/DlbVTJn77l+x5+/g2kJjxX0/TAKbkiP2vE/iPlIqbikQGyLG237xgap8iMf1LJU3MzLurJvoccMwcLW5zbLZ238+4l5/Ym4r7+LGDWGLV5jlXemInZgx4x0TS6C1IMtLLe68pPBIkamtokV1M/Q6HhnqLMpOm/2w31zofMxVjxs7Luo/alx/6lhu44bCbIWcGNfCf7djjd6xtn69Z+DRG7eJu/OI6FE5lT/p7xwPOVm8MnYKdLltevB2r9nmiBCRLqcAlsdlj774bxXndXVdyN2y4EO+h/6fU1UPw69x79/0dNHCFRoirQsKtK05ymcs/rBIrlX8q8aeFe4P3/7X2PNWrtX8jMIcBX9u9VcKc1Y0FyzqA6kvaRQQ+Wz6e31S3BmNZ0fnCPC6xiqAxIJTJ8/gmnk04oTOsRWbJex3R/Y4ylwM0OByDAxIEXEO8X/BtHHhCW6XpIsBYHeJiEh39ShtzNDQ4nJV1OBCYfO6ul3kFeYE6yzzAQkc3XcP6J2mRQs8dKS6wLolj+Zf2d+ySEPjEtfFgBNMgQEqYqKtiwREJF2TFoKMe7RcUAio/gZQHKheRSxfIy5wTw1z5L+Hdzh3/zwATA4Mnq5+LuucEpoANTDzLg==",
+                "origin": [
+                    512,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 61441439,
+            "classId": 6467949,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:14.693Z",
+            "updatedAt": "2023-10-03T12:16:14.693Z",
+            "tags": [],
+            "classTitle": "gland",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJ1QKzKyAwk9y05/x9IsQX4hLgC6f///y+9Of8ukMVYEuQXzODw7EYakNPi6eIYUjGn9eJG3gMKPCwOAV1TJBsDJXR7jmn0OHg2Fog0HdzTXXPc8wab9OMXvmbG5e1G56ft0/DgOd7QZfB+Dku5WoH88QtsFWxc+yc8eZI0iXWx1loNDg5BRWWRli4HLiYnpxMcoo0iLC1bbOtDvgp1/SnNK/bMKAq0FVzYmVosv9u58eQKO81li+7f2iI2GegeBk9XP5d1TglNABYNTl8=",
+                "origin": [
+                    544,
+                    485
+                ]
+            }
+        },
+        {
+            "id": 61441438,
+            "classId": 6467949,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:14.693Z",
+            "updatedAt": "2023-10-03T12:16:14.693Z",
+            "tags": [],
+            "classTitle": "gland",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJmQJzHyAwkw8KKWIAUW4BPiCuQ/v///9Kb8+8CWYwlQX7BDA7PbqQBOW2eLo4hFXO2XtrI6WwowBwwk3vHF6ZG6aPdrHuy3DxmPvosa31Ck6W9XtiUf93ELuYie4PHe+dftvt0xOI8w9fX3fteftzM+s1e+uu6WLmIDLFeta7UxVOtdBcF6mjrmgQv1hTIEs5ekH9G3NTwouGDWaFfelvXhZsYsi4KFOc+u6gzU3ka/0e5its/GUOqJq780hquA3QRg6ern8s6p4QmAKiAUXM=",
+                "origin": [
+                    721,
+                    223
+                ]
+            }
+        },
+        {
+            "id": 61441437,
+            "classId": 6467949,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:14.692Z",
+            "updatedAt": "2023-10-03T12:16:14.692Z",
+            "tags": [],
+            "classTitle": "gland",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKMQMzEyAwkF/urpAAptgCfEFcg/f///6U3598FKSkJ8gtmcHh2Iw3I4fF0cQypmJOckZAB1MjCyHjWSPcBUJzB09XPZZ1TQhMAKcgYOA==",
+                "origin": [
+                    774,
+                    0
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+# Visualization outputs
+superpixel_graph_overlay.png
+first_256_patch_graph_visualization.png
+
+# Temporary notebooks
+create_patches.ipynb
+
+# YAML files
+yaml/
+# or
+# yaml/*.yaml
+# yaml/*.yml
+keys.txt
+keys.txt
+keys.txt

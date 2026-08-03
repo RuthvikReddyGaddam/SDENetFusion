@@ -1,0 +1,56 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 6927783,
+            "tagId": 22131,
+            "name": "patient_id",
+            "value": 7,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:30.533Z",
+            "updatedAt": "2023-10-03T12:16:30.533Z"
+        },
+        {
+            "id": 6927784,
+            "tagId": 22132,
+            "name": "malignant",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:30.533Z",
+            "updatedAt": "2023-10-03T12:16:30.533Z"
+        },
+        {
+            "id": 6927785,
+            "tagId": 22134,
+            "name": "grade_sirinukunwattana",
+            "value": "moderately differentiated",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:30.533Z",
+            "updatedAt": "2023-10-03T12:16:30.533Z"
+        }
+    ],
+    "size": {
+        "height": 522,
+        "width": 775
+    },
+    "objects": [
+        {
+            "id": 61442156,
+            "classId": 6467949,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:30.535Z",
+            "updatedAt": "2023-10-03T12:16:30.535Z",
+            "tags": [],
+            "classTitle": "gland",
+            "bitmap": {
+                "data": "eJwBRAK7/YlQTkcNChoKAAAADUlIRFIAAAF1AAAAsgEDAAAAh6nNMwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAHsSURBVHic7ddNboMwEAVgqi6y9BE4CkfDR/NRfAQvWaDQkibBNvP3VI2UVmH9NZn3ZpDSYbM/cfh+HH1y9hn0xdkvzn519lfQb6iPoE/OPjv7AvoF9Cvor85+8/YR9An0GfTlxfzi7Fdnv3n76OzTi/ns7Msf98vb/2v/avf29m//Oz+BfgR9AP0n6OEfQDPoA+ihAOgv+t0jX3D7l3MGPTDS3U+gD6D/AL35Dx7emuDpA+iNS3t649IOP4F+BH0AvS3w4W03V/kZ9KPFL4cPoL+A3nSilTcVVPsR9JYAtbcEqL1lY403DNR4w8k13tBQ6/WBWq+/lJ0PoFdX0Hl1Bb3XAvReW0HvtYFOfgS9srLSe+UtyycvfwXlpaVRXsqcKC8MRHFpINLzSzvVrwQg4wqvARlXuLpIe27JV4ZzgVfOT1BcNjDHmQ2z4zAFMdsauItIrKcLjbwnC+I5eUF8XDowH5cOXARPXUSWPBFY9ERgiRMXIcWlAovjEBtOsj8FjrIPHWffRcZL17A/fUFyPecLyorvC0qgj5qfoXp6r9XTF6r7tlCtzr5QlbcXWnRfB9bbGZoLTRY/AmH3J2AffxRqmr4q1DbOUahtnOeFWvmjUCu/Byhm/7Nh8zj3Ddj5bSL98NuJCuQv/fhfX14HPf7AK0YAAAAASUVORK5CYIK7dw+9",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

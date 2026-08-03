@@ -1,0 +1,92 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 6927621,
+            "tagId": 22131,
+            "name": "patient_id",
+            "value": 4,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:19.136Z",
+            "updatedAt": "2023-10-03T12:16:19.136Z"
+        },
+        {
+            "id": 6927622,
+            "tagId": 22133,
+            "name": "benign",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:19.136Z",
+            "updatedAt": "2023-10-03T12:16:19.136Z"
+        },
+        {
+            "id": 6927623,
+            "tagId": 22134,
+            "name": "grade_sirinukunwattana",
+            "value": "adenomatous",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:19.136Z",
+            "updatedAt": "2023-10-03T12:16:19.136Z"
+        }
+    ],
+    "size": {
+        "height": 522,
+        "width": 775
+    },
+    "objects": [
+        {
+            "id": 61441572,
+            "classId": 6467949,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:19.137Z",
+            "updatedAt": "2023-10-03T12:16:19.137Z",
+            "tags": [],
+            "classTitle": "gland",
+            "bitmap": {
+                "data": "eJwBDgLx/YlQTkcNChoKAAAADUlIRFIAAADAAAAAxwEDAAAAdRfO/AAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAG2SURBVHic7dZBkoMgEIXhtlyw5AgchaPh0XIUj+DSRQommmAU+ncGK1XZDEu/0n4NrYmIhJSiKMukZQ01uBVSDeEJtwqe19NcXu9fUD3LZCifZTOMBGURl6Fs0ico8geYjhA2SAjHXGm/IsH+rgIiwTtbCZFg67OCkWD6HMwEd4JIkKe1hpFgIrgTJISB4EYwEcwEd4JnrECxNFg3xVN1DSJBQhgIlupOg5lg6d1qkBAGgnH3kTmsafdZKmPpEAke1QFu0ukw6We79q5D1M82LZuC4JvBfQ5sM+gnlXDfTwD2Hd6pixCawX8TXDPYb4I+DZdAH5NLoA/WGejzQx/rf9DBN4NrBkugDtYpqPMjNCb4m34OnsAR2GbQOhTqUKhDob8zQh0KdSiUVyivUF6hWEKxhGK9wDWDJagbEWpEqJEMVSMZqkYyVHkzVHkzVLEyVPPwK1TVhapvUO7WBmWsDcrqG5Sb8gZHYAk6AkEwBD2BIFgCQ9ARCIInsASmGXqC/S1H6Ah2gQuwBD2BIDgCQ9ARbIErcASCEAgMQUcgCJbAEAhCIPAEPcGaS4Wlig6G4FEGQMIPqjGxs+eRB80AAAAASUVORK5CYIKtq9Tm",
+                "origin": [
+                    583,
+                    126
+                ]
+            }
+        },
+        {
+            "id": 61441571,
+            "classId": 6467949,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:19.137Z",
+            "updatedAt": "2023-10-03T12:16:19.137Z",
+            "tags": [],
+            "classTitle": "gland",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLNQFzGyAwkL/Js6gdSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5BzxdHEMqZiz9vzG3KMMHC2JAqyqygZciydeNOpSP1ldeMfin+jLrhjHj54vDsT1y7hFnuC4NEFIhZWzw3lefs1pLqMJYksUND0cZJK6dFJYMj0chYQE2iVSFZU9nLkmNbEcUQTqcJCaNEHgiOL3X/apMBUzlLglPbiDJrS0KOh1BIoZNW1RUPVwYnoksHiNAnOmI9ekCT/UCzs0NzXxLFFk9XRketQENJNX80TpheO+dXy/dh0Mzd//6Ybla/7qFLvzP9nsjzMn/d5fuR3oHwZPVz+XdU4JTQA5d2OG",
+                "origin": [
+                    644,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 61441570,
+            "classId": 6467949,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:19.136Z",
+            "updatedAt": "2023-10-03T12:16:19.136Z",
+            "tags": [],
+            "classTitle": "gland",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIJQOzJyAwkf3zd2Aqk2AJ8QlyB9P///5fenH8XyGIsCfILZnB4diMNyKn0dHEMqZhz99JG3gMKPCwOAVxebgm9JXK9PbMEjRym9DNo27Squsx873dtd9Vzr7Lrj+WdWNbxM5UsctPmTT96rcH5998pIuWOYQvssz/0HBBg42gUlOycKLnhgaS08iwPbgG3ecx1bTlOEpmMF10iDmxgzj8Ud9Vin2dHo3ix1dtwye//QY5g8HT1c1nnlNAEAKl7Sfg=",
+                "origin": [
+                    679,
+                    449
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 6927909,
+            "tagId": 22131,
+            "name": "patient_id",
+            "value": 2,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:36.188Z",
+            "updatedAt": "2023-10-03T12:16:36.188Z"
+        },
+        {
+            "id": 6927910,
+            "tagId": 22132,
+            "name": "malignant",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:36.188Z",
+            "updatedAt": "2023-10-03T12:16:36.188Z"
+        },
+        {
+            "id": 6927911,
+            "tagId": 22134,
+            "name": "grade_sirinukunwattana",
+            "value": "moderately-to-poorly differentated",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:36.188Z",
+            "updatedAt": "2023-10-03T12:16:36.188Z"
+        }
+    ],
+    "size": {
+        "height": 522,
+        "width": 775
+    },
+    "objects": [
+        {
+            "id": 61442531,
+            "classId": 6467949,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-03T12:16:36.189Z",
+            "updatedAt": "2023-10-03T12:16:36.189Z",
+            "tags": [],
+            "classTitle": "gland",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

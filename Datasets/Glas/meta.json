@@ -1,0 +1,51 @@
+{
+    "classes": [
+        {
+            "title": "gland",
+            "shape": "bitmap",
+            "color": "#00F1DA",
+            "geometry_config": {},
+            "id": 6467949,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "benign",
+            "value_type": "none",
+            "color": "#228A0F",
+            "id": 22133,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "grade_sirinukunwattana",
+            "value_type": "any_string",
+            "color": "#8A7F0F",
+            "id": 22134,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "malignant",
+            "value_type": "none",
+            "color": "#0F8A1F",
+            "id": 22132,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "patient_id",
+            "value_type": "any_number",
+            "color": "#3B0F8A",
+            "id": 22131,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        }
+    ],
+    "projectType": "images"
+}
